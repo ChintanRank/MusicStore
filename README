@@ -1,4 +1,4 @@
-
+Note: Try the below code with the help of H2 Database.
 Note: to run this project on Windows or Linux/Mac with the embedded DB H2 (easiest way):
 0. If running on topcat, edit src/main/resources/application.properties and
   set the port to one of your assigned ports, preferably xxxx3 to follow
