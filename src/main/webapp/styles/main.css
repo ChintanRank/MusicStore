@@ -1,0 +1,23 @@
+
+/* minimal CSS for cs636: just positioning parts of the page */
+body {
+ 	width: 750px;
+ 	 border: 1px solid powderblue;
+  margin: 50px;
+}
+}
+#sidebar {
+    float: left;
+    width: 150px;
+}
+section {
+    float: left;
+    width: 600px;
+    border: 1px solid powderblue;
+  margin: 50px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
